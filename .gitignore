@@ -105,3 +105,6 @@ dist
 
 #phpstorm
 .idea/
+
+#prisma
+hello-world/
