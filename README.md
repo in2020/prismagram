@@ -29,3 +29,24 @@ npm add merge-graphql-schemas
 ```
 npm add prisma-client-lib
 ```
+
+## User Stories
+- [x] Create account
+- [x] Request Secret
+    - `npm add nodemailer`
+    - `npm add nodemailer-sendgrid-transport`
+- [x] Confirm Secret (Login)
+    - `npm add passport passport-jwt`
+    - `npm add jsonwebtoken`
+- [x] Like / Unlike a photo
+- [x] Comment on a photo
+- [x] Search by user
+- [x] Search by location
+- [x] Follow / Unfollow User
+- [] See user profile
+- [] See full photo
+- [] Edit my profile
+- [] Create account
+- [] Upload photo
+- [] Edit the photo(Delete)
+- [] See the feed
