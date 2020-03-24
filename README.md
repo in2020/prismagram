@@ -43,10 +43,9 @@ npm add prisma-client-lib
 - [x] Search by user
 - [x] Search by location
 - [x] Follow / Unfollow User
-- [] See user profile
-- [] See full photo
-- [] Edit my profile
-- [] Create account
+- [x] Edit my profile
+- [x] See user profile
+- [x] See full photo
 - [] Upload photo
 - [] Edit the photo(Delete)
 - [] See the feed
