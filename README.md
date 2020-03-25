@@ -46,6 +46,10 @@ npm add prisma-client-lib
 - [x] Edit my profile
 - [x] See user profile
 - [x] See full photo
-- [] Upload photo
-- [] Edit the photo(Delete)
+- [x] Upload photo
+- [x] Edit the photo(Delete)
 - [] See the feed
+- [] See rooms
+- [] See room
+- [] Send private Message
+- [] Receive Message (Realtime)
