@@ -28,7 +28,7 @@ npm add merge-graphql-schemas
 # prisma
 ```
 npm add prisma-client-lib
-```
+``` 
 
 ## User Stories
 - [x] Create account
@@ -48,8 +48,10 @@ npm add prisma-client-lib
 - [x] See full photo
 - [x] Upload photo
 - [x] Edit the photo(Delete)
-- [] See the feed
-- [] See rooms
-- [] See room
-- [] Send private Message
-- [] Receive Message (Realtime)
+- [x] See the feed
+    - prisma @createdAt, @updatedAt 
+- [x] Send private Message
+- [x] See rooms
+- [x] See room
+- [x] Receive Message (Realtime)
+    - prisma subscription: 데이터 조작(Creat, Update, Delete)에 대한 리스너 기능 제공
